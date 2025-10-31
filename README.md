@@ -26,9 +26,9 @@ Otherwise, it is Rejected.
 
 ## 🧩 **Language**
 
-{w∈{0,1}∗∣w ends with 01}
+*L = {w∈{0,1}∣w ends with '01'}**
 
-In Words: All binary strings (0,1) that ends with the substring 01.
+**In Words:** All binary strings (0,1) that ends with the substring '01'.
 
 # 🧑‍💻 **Example Output**
 <img width="312" height="323" alt="LabAct_ss1" src="https://github.com/user-attachments/assets/c2a3d3fa-1175-4e3f-840c-6f64144a49f8" />

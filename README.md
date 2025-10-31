@@ -31,3 +31,7 @@ Otherwise, it is Rejected.
 In Words: All binary strings (0,1) that ends with the substring 01.
 
 # 🧑‍💻 **Example Output**
+<img width="312" height="323" alt="LabAct_ss1" src="https://github.com/user-attachments/assets/c2a3d3fa-1175-4e3f-840c-6f64144a49f8" />
+
+
+<img width="1805" height="875" alt="Screenshot 2025-10-31 202521" src="https://github.com/user-attachments/assets/2bc7b944-b58b-4ea4-863d-7926116012cb" />
